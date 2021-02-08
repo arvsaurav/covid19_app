@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity
         webSettings.setJavaScriptEnabled(true);
         myWebView.loadUrl("https://www.covid19india.org");
     }
+    
 
     @Override
     public void onBackPressed()
