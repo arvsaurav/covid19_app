@@ -1,6 +1,6 @@
 # Covid19 Tracker
 Shows current status of covid19.
-(Just used webview which loads covid19india.org website inside this app.)
+(Just used webview which loads covid19india.org website inside this app)
 ## App Screenshots
 
 <a href="">
